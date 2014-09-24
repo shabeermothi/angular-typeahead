@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Alabama",
+        "tag": "AL",
+        "stateProp": {
+            "url" : "sample.html"
+        }
+    },
+    {
+        "name": "Alaska",
+        "tag": "AK",
+        "stateProp": {
+            "url" : "sample1.html"
+        }
+    }
+]
